@@ -6,7 +6,7 @@ function App() {
     <main>
       <div>
         <h1>Cat Facts</h1>
-        <img src="" alt="" />
+        <img src="/kuromi.png" alt="logo" />
       </div>
 
       <div>
